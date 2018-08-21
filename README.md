@@ -58,7 +58,7 @@ _A set of themes developed by the community and ready-to-use._
 
 * [plonetheme.barcelonetang](https://github.com/it-spirit/plonetheme.barcelonetang) - Customizable, advanced theme based on Barceloneta for Plone 5.
 * [collective.multitheme](https://github.com/collective/collective.multitheme) - A Very Customizable theme packed with fragment tiles. The only theme you need if you are not making your own. Control panel where you can choose between layouts (colors can also be change with LESS variables and rebuilding the CSS), option for 'full-size-view'.  The author could REALLY need some help to get this out of beta :) You find a very old demo at https://www.youtube.com/watch?v=VV4Wv4Ly9AQ 
-
+* [plonetheme.webpacktemplate](https://github.com/collective/plonetheme.webpacktemplate) - Provides a Webpack (2.x) plugin and presets for building completely Webpack managed themes for Plone 5, using the resources shipped with a Plone release.
 
 
 ## Content-types
